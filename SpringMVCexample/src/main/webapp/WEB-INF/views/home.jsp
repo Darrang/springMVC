@@ -11,7 +11,7 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 
-<a href = "/myapp/employee-module/getAllEmployees">view Employees</a>
+<a href = "employee-module/getAllEmployees">view Employees</a>
 
 </body>
 </html>
